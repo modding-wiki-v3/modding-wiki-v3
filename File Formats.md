@@ -52,6 +52,7 @@ No solutions currently exist for modifying 3D models or their associated texture
 .STX files are used to store player-facing text. They can be unpacked and repacked using [[DRV3-Sharp]] or [[Harmony-Tools]].
 
 In the `wrd_script` folder, .SPCs containing .STX files have at least one corresponding .SPC which contains .WRD files. DRV3-Sharp's .WRD unpacking implementation is able to match these .SPCs to each other and unpack/repack their contents in tandem for easy editing.
+
 Harmony-Tools is designed to unpack and repack .STX files in a manner useful to fan translators, who will need to modify text more than event script. Since .WRD files contain the data specifying which character is speaking for a given line of dialogue, Harmony-Tools can match .WRD files to .STX files and extract them into a .JSON document containing dialogue with speaker data.
 
 ## .WRD
