@@ -1,3 +1,3 @@
 - Pages for different maps (would we want each map to have its own page?)
 - Pages for .wrd opcodes?
-- Finish migrating to github organization...
+- Finished migrating to github organization...?
