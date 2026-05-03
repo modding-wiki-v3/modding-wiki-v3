@@ -13,6 +13,7 @@ This means it can help you with:
 - Changing the contents of most of DRV3's file archives
 - Viewing images
 - Changing 2D image assets
+- Changing map data and certain information found in game_resident
 - Translating the game into other languages
 
 Harmony-Tools has its own [documentation wiki](https://github.com/redssu/Harmony-Tools/wiki), which can help with getting the tool set up.
