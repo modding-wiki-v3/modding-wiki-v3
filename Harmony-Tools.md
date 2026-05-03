@@ -6,7 +6,7 @@ Harmony-Tools is capable of the following:
 - Extracting textures from [.SRDs, .SRDIs, and .SRDVs](File%20Formats#.SRD)
 - Repacking 2D textures from .SRDs, .SRDIs, and .SRDVs
 - Unpacking/repacking [.STXs](File%20Formats#.STX)
-- Pairing .[.WRDs](File%20Formats#.WRD) with their matching .STXs, and unpacking them in tandem to create a .JSON file optimized for translating the game
+- Pairing [.WRDs](File%20Formats#.WRD) with their matching .STXs, and unpacking them in tandem to create a .JSON file optimized for translating the game
 
 This means it can help you with:
 - Changing the contents of most of DRV3's file archives
