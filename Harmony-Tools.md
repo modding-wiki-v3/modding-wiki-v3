@@ -1,4 +1,4 @@
-[Harmony-Tools](https://github.com/redssu/Harmony-Tools) is a convenient right-click menu tool based on an older version of DRV3-Sharp. It can be used to extract and modify Danganronpa V3: Killing Harmony's files. The most recent release can be downloaded [here](https://github.com/redssu/Harmony-Tools/releases).
+[Harmony-Tools](https://github.com/redssu/Harmony-Tools) is a convenient right-click menu tool based on an older version of DRV3-Sharp. It can be used to extract and modify Danganronpa V3: Killing Harmony's files, and is mainly designed for translating the game. The most recent release can be downloaded [here](https://github.com/redssu/Harmony-Tools/releases).
 
 Harmony-Tools is capable of the following:
 - Unpacking [.CPKs](File%20Formats#.CPK)
